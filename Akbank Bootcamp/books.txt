@@ -1,0 +1,74 @@
+Don Kişot, Miguel de Cervantes, 1605, 863
+Sefiller, Victor Hugo, 1862, 1232
+Anna Karenina, Lev Tolstoy, 1877, 864
+Madame Bovary, Gustave Flaubert, 1857, 443
+Yeraltından Notlar, Fyodor Dostoyevski, 1864, 203
+Savaş ve Barış, Lev Tolstoy, 1869, 1225
+Karamazov Kardeşler, Fyodor Dostoyevski, 1880, 796
+Ulysses, James Joyce, 1922, 732
+Moby Dick, Herman Melville, 1851, 720
+Hamlet, William Shakespeare, 1603, 342
+Suç ve Ceza, Fyodor Dostoyevski, 1866, 671
+Gösta Berling'in Maceraları, Selma Lagerlöf, 1891, 321
+Gecenin Sonuna Yolculuk, Louis-Ferdinand Céline, 1932, 448
+Robinson Crusoe, Daniel Defoe, 1719, 320
+Cesur Yeni Dünya, Aldous Huxley, 1932, 325
+Gargantua ve Pantagruel, François Rabelais, 1532, 623
+Huckleberry Finn'in Maceraları, Mark Twain, 1884, 366
+Gölgeyle Savaş, Orson Scott Card, 1985, 324
+Otostopçunun Galaksi Rehberi, Douglas Adams, 1979, 224
+Sessizlik, Shusaku Endo, 1966, 256
+Fahrenheit 451, Ray Bradbury, 1953, 158
+Kırmızı ve Siyah, Stendhal, 1830, 511
+Fareler ve İnsanlar, John Steinbeck, 1937, 107
+Sonsuzluk Evi, William Gaddis, 1975, 956
+Tristram Shandy'nin Hayatı ve Görüşleri, Laurence Sterne, 1759, 588
+Yüzbaşının Kızı, Aleksandr Puşkin, 1836, 325
+Yeşil Yapraklar, Walt Whitman, 1855, 275
+Görevimiz Tehlike, Ernest Hemingway, 1929, 247
+Büyülü Dağ, Thomas Mann, 1924, 765
+Çavdar Tarlasında Çocuklar, J.D. Salinger, 1951, 277
+Sürü, Franz Kafka, 1924, 185
+Dönüşüm, Franz Kafka, 1915, 89
+Fareler ve İnsanlar, John Steinbeck, 1937, 107
+Söz Vermek, Virginia Woolf, 1925, 315
+Sisler İçindeki Mont Blanc, Mary Shelley, 1818, 220
+Akıl Hastanesinden Anılar, Ken Kesey, 1962, 312
+Görsel Bilgi, Don DeLillo, 1985, 243
+Kan Kırmızı, Truman Capote, 1966, 343
+Dr. Jekyll ve Mr. Hyde, Robert Louis Stevenson, 1886, 124
+Görünmez Adam, H.G. Wells, 1897, 198
+Beloved, Toni Morrison, 1987, 354
+Çavdar Tarlasında Çocuklar, J.D. Salinger, 1951, 277
+Fırtına İşareti, Alexandre Dumas, 1844, 426
+Madam Bovary, Gustave Flaubert, 1857, 443
+Doktor Jivago, Boris Pasternak, 1957, 592
+Senin Adın, İsmail Kadaré, 1980, 120
+Cennetin Doğusu, James Clavell, 1978, 1053
+Savaş Sanatı, Sun Tzu, 500, 54
+On Altıncı Harf, Nathaniel Hawthorne, 1850, 190
+Dune, Frank Herbert, 1965, 412
+Keloğlan Masalları, Wilhelm Grimm, 1812, 211
+Cesur Yeni Dünya, Aldous Huxley, 1932, 325
+Yüzbaşının Kızı, Aleksandr Puşkin, 1836, 325
+Fareler ve İnsanlar, John Steinbeck, 1937, 107
+Sonsuzluk Evi, William Gaddis, 1975, 956
+Tristram Shandy'nin Hayatı ve Görüşleri, Laurence Sterne, 1759, 588
+Yeşil Yapraklar, Walt Whitman, 1855, 275
+Görevimiz Tehlike, Ernest Hemingway, 1929, 247
+Büyülü Dağ, Thomas Mann, 1924, 765
+Çavdar Tarlasında Çocuklar, J.D. Salinger, 1951, 277
+Sürü, Franz Kafka, 1924, 185
+Dönüşüm, Franz Kafka, 1915, 89
+Fareler ve İnsanlar, John Steinbeck, 1937, 107
+Söz Vermek, Virginia Woolf, 1925, 315
+Sisler İçindeki Mont Blanc, Mary Shelley, 1818, 220
+Akıl Hastanesinden Anılar, Ken Kesey, 1962, 312
+Görsel Bilgi, Don DeLillo, 1985, 243
+Kan Kırmızı, Truman Capote, 1966, 343
+Dr. Jekyll ve Mr. Hyde, Robert Louis Stevenson, 1886, 124
+Görünmez Adam, H.G. Wells, 1897, 198
+
+
+
+
